@@ -4,6 +4,7 @@
 
 **FoodBoard** é um projeto com objetivo de fazer recomendações de receitas nutritivas e avaliações das mesmas receitas através de gráficos de pizza, este programa usufrui do vasto banco de dados da Spoonacular através de sua API faz recomendações baseadas na seleção do próprio usuário de nutrientes e faz a avaliação dessas receitas em um Dashboard. 
 
+![Imagem do projeto](https://drive.google.com/uc?id=1c4Zcx_oXq0Ywk0Rdl3KEJWMbJBYxwSs5)
 Link para download do executável: [FoodBoard](https://drive.google.com/file/d/1K28sSLdKTub67kWjkp6SMaAu6H63yyGn/view?usp=sharing)
 
 ### Tecnologias usadas:
